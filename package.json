@@ -1,0 +1,9 @@
+{
+  "name": "stopping_gd",
+  "version": "0.1.0",
+  "repo": "hcnn/stopping_gd",
+  "description": "Stopping criteria for gradient descent that checks for tolfun and convergence direction",
+  "keywords": ["stopping criteria", "termination criteria", "gradient descent", "numerical optimization"],
+  "license": "MIT",
+  "src": ["stopping_gd.c", "stopping_gd.h"]
+}
