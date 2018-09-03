@@ -28,5 +28,5 @@ cd stopping_gd
 make
 ```
 
-### Links
-* http://hcnn.de/docs/stopping_gd
+### Explanations
+Further explanations in [README.ipynb](README.ipynb)
